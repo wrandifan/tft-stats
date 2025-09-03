@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+bot_env/
+venv/
+
+# Secrets
+.env
+
+# Docs / temp
+*.docx
+*.log
